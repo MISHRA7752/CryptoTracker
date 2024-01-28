@@ -17,4 +17,4 @@
 7-Integrated google analytics to track the live traffic data.
 
 # Link to website:
-https://nirmalkatiyar.github.io/Crypto-Tracker/
+https://mishra7752.github.io/CryptoTracker/
